@@ -1,0 +1,10 @@
+body{
+	margin: 0 0;
+}
+#box{
+	position: fixed;
+	top:10px;
+	left: 10px;
+	color: white;
+	background-color: pink;
+}
